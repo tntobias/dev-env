@@ -3,5 +3,6 @@
 - import_playbook: base.yml
 - import_playbook: go.yml
 - import_playbook: vscode.yml
+- import_playbook: zsh.yml
 
 ...
