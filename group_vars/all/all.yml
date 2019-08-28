@@ -1,0 +1,7 @@
+---
+
+laptop_mode: true
+install_vms: false
+local_username: tnt
+
+...

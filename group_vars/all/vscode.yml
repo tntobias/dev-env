@@ -1,0 +1,21 @@
+---
+
+vscode_pkg_url:  "https://vscode-update.azurewebsites.net/latest/linux-deb-x64/stable"
+vscode_extensions:
+  - aaron-bond.better-comments
+  - donjayamanne.githistory
+  - oderwat.indent-rainbow
+  - yzhang.markdown-all-in-one
+  - ms-vscode.Go
+  - neverik.go-critic
+  - 766b.go-outliner
+  - maxmedia.go-prof
+  - quicktype.quicktype
+  - redhat.vscode-yaml
+  - vincaslt.highlight-matching-tag
+  - ms-python.python
+  - vscoss.vscode-ansible
+  - wayou.vscode-todo-highlight
+  - ms-azuretools.vscode-docker
+  - p1c2u.docker-compose
+  - foxundermoon.shell-format

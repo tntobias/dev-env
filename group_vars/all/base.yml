@@ -1,0 +1,105 @@
+---
+
+base_archiving_tools:
+  - arj
+  - cabextract
+  - file-roller
+  - mpack
+  - p7zip-full
+  - p7zip-rar
+  - rar
+  - sharutils
+  - unace
+  - unrar
+  - unzip
+  - uudeview
+  - zip
+
+base_sys_tools:
+  - bleachbit
+  - fatrace
+  - gnome-tweak-tool
+  - progress
+  - pwgen
+
+base_media_tools:
+  - ffmpeg
+  - gimp
+  - imagemagick
+  - libimage-exiftool-perl
+  - mediainfo
+  - soundconverter
+  - vlc
+
+base_developer_tools:
+  - ansible
+  - ansible-lint
+  - cloc
+  - clusterssh
+  - colordiff
+  - curl
+  - default-jre-headless
+  - dos2unix
+  - expect
+  - filezilla
+  - g++
+  - gedit-plugins
+  - git
+  - git-extras
+  - gitg
+  - htop
+  - httpie
+  - inotify-tools
+  - ipython
+  - ipython3
+  - jq
+  - kwalify
+  - makeself
+  - meld
+  - most
+  - netcat
+  - nmap
+  - nodejs
+  - pandoc
+  - parallel
+  - pep8
+  - powerline
+  - pry
+  - pssh
+  - pv
+  - pylint
+  - pylint3
+  - python3-pep8
+  - python3-pep8-naming
+  - python3-pip
+  - python-autopep8
+  - python-jmespath
+  - python-pep8
+  - python-pep8-naming
+  - python-pip
+  - python-pygments
+  - ranger
+  - recode
+  - rename
+  - ruby
+  - ruby-dev
+  - shellcheck
+  - siege
+  - socat
+  - sshfs
+  - sshpass
+  - tilix
+  - tmux
+  - tree
+  - uget
+  - virtualenv
+  - virtualenvwrapper
+  - wget
+  - xclip
+  - zeal
+
+base_system_tools_laptop:
+  - cpufrequtils
+  - laptop-mode-tools
+  - powertop
+...

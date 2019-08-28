@@ -1,0 +1,10 @@
+---
+
+golang_shell_profile: /home/{{ local_username }}/.zshrc
+GO111MODULE: "off"
+GOPATH: /home/{{ local_username }}/go
+go_get:
+  - name: golint
+    url: golang.org/x/lint/golint
+
+...

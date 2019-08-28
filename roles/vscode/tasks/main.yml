@@ -1,0 +1,13 @@
+---
+
+- name: download and install vscode
+  apt:
+    deb: "{{ vscode_pkg_url }}"
+
+- name: install vscode extensions
+  command: code --install-extension {{ item }}
+  with_items: "{{ vscode_extensions }}"
+  become: yes
+  become_user: "{{ local_username }}"
+
+...
